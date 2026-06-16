@@ -1,4 +1,4 @@
-# Shelf Inventory Monitor
+# Sistema de monitoramento de estoque em prateleiras
 
 Sistema de monitoramento de estoque em prateleiras utilizando:
 
